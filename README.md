@@ -42,4 +42,7 @@ This repository presents a novel approach to adversarial example detection by le
 
 ## License
 
-This project is licensed under the MIT License.
+
+## Links to Datasets used in the paper
+CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html
+CIFAR-100: https://www.cs.toronto.edu/~kriz/cifar.html (scroll down to second half of the page)
